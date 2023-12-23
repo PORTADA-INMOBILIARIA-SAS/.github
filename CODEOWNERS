@@ -1,0 +1,5 @@
+
+*.js @JohnGolgota
+*.ts @JohnGolgota
+
+docs/* @JohnGolgota
